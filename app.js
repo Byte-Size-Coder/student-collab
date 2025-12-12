@@ -14,7 +14,9 @@ console.log("Hello, world!");
 // Ravinder
 
 
-// Lamaiae
+// Lamiae
+console.log ("hello it's lamiae here")
+
 
 
 // Lance
