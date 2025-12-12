@@ -18,5 +18,5 @@ console.log("Hello from Hayden!");
 
 // Lamaiae
 
-
+console.log("Hello everyone! -Lance");
 // Lance
