@@ -16,7 +16,9 @@ console.log("Hello from Hayden!");
 // Ravinder
 
 
-// Lamaiae
+// Lamiae
+console.log ("hello it's lamiae here")
+
 
 console.log("Hello everyone! -Lance");
 // Lance
